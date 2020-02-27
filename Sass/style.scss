@@ -1,0 +1,39 @@
+$theme-color: red;
+
+body {
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header {
+    background-color: chocolate;
+    height: 10em;
+}
+
+h1 {
+    color: brown;
+}
+
+p {
+    color: $theme-color;
+}
+
+footer {
+    background-color: darkolivegreen;
+    height: 25em;
+    width: 880px;
+    margin: 0 auto;
+    padding: 0;
+
+    p {
+        color: white;
+        font-size: 2em;
+        font-weight: bold;
+    }
+
+    .afloat {
+        width: 400px;
+        margin: 8px 5px;
+        float: left;
+    }
+}
