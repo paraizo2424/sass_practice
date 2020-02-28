@@ -1,0 +1,22 @@
+{
+  "name": "sass_practice",
+  "version": "1.0.0",
+  "description": "bootstrap SCSS practice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paraizo2424/sass_practice.git"
+  },
+  "author": "nishi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paraizo2424/sass_practice/issues"
+  },
+  "homepage": "https://github.com/paraizo2424/sass_practice#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
